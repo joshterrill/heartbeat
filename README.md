@@ -8,3 +8,7 @@ chmod 775 twilio-sms.sh
 chmod 775 heartbeat.sh
 #optionally, you can run 'screen' and run the script in another terminal tab
 ./heartbeat.sh
+```
+
+#### references
+⋅⋅* [twilio-sms documentation](https://www.twilio.com/labs/bash/sms)
