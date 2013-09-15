@@ -11,4 +11,4 @@ chmod 775 heartbeat.sh
 ```
 
 #### references
-⋅⋅* [twilio-sms documentation](https://www.twilio.com/labs/bash/sms)
+[twilio-sms documentation](https://www.twilio.com/labs/bash/sms)
